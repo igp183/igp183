@@ -15,8 +15,6 @@ Aspiring to master simulation software development.
 
 I tend to build tools I wish existed, mostly for learning, knowledge organization, and tinkering. Some of them are even useful.
 
-No public repos yet, but things are cooking.
-
 <div align="center">
 
 ![C#](https://img.shields.io/badge/C%23-181818?style=flat&logo=csharp&logoColor=white)
