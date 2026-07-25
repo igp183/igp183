@@ -7,7 +7,7 @@
 </div>
 
 I've worked with parsing of documents and QA for agents on RAG systems.
-I'm prefer backend and am a big fan of heavily
+I prefer working with backend and am a big fan of heavily
 typed languages, but low level coding is where the fun is at.
 Aspiring to master simulation software development.
 
